@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Selin Özlük</h1>
-<h3 align="center">Backend Developer | .NET & Django | API & SQL</h3>
+<h3 align="center">Backend Developer</h3>
 
 ---
 
