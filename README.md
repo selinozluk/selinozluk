@@ -10,6 +10,9 @@
 📚 Continuously improving skills in databases and scalable applications  
 ✨ Passionate about writing clean, efficient, and maintainable code  
 
+---
+## 🔗 Connect with Me
+
 <div align="center"> 
   <a href="mailto:selinnozlukk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -20,7 +23,7 @@
 </div>
 
 ---
-## 🧰 Languages & Tools
+## 🛠 Languages & Tools 🛠
 
 <p align="left">
   <img
