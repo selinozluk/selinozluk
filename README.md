@@ -37,10 +37,9 @@
 
 ## Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,graphql,vscode,docker,postgres,postman,swagger,mssql,mysql" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" 
-       alt="Swagger" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MSSQL" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,docker,postgres,mysql,graphql,postman" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="48"/>
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" height="48"/>
 </p>
 
 ---
