@@ -44,7 +44,9 @@
 
 ## 📊 GitHub Stats  
 
-![Selin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=selinozluk&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selinozluk&layout=compact&theme=default)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=selinozluk&show_icons=true&theme=default" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selinozluk&layout=compact&theme=default" alt="languages" height="180"/>
+</p>
 
 ---
