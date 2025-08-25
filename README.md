@@ -25,10 +25,22 @@
 ---
 ## 🛠 Languages & Tools 🛠
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=python,cs,dotnet,django,graphql,mysql,mssql,aws,git,postman&theme=dark&perline=8"
-    alt="tech stack icons" />
+## Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,python" />
+</p>
+
+## Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,django" />
+</p>
+
+## Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,rider,vscode,docker,postgres,postman,redis" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" 
+       alt="Swagger" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MSSQL" width="48" height="48"/>
 </p>
 
 ---
